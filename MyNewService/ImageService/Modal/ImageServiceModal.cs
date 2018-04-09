@@ -1,7 +1,7 @@
 ﻿//using ImageService.Infrastructure;
 using System;
 using System.Collections.Generic;
-System.Drawing.dll.;
+using System.Drawing;
 //using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
